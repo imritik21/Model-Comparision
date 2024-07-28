@@ -35,8 +35,8 @@ pip install -r requirements.txt
 
 To preprocess the data, run:
 bash
---> python scripts/data_preprocessing.py
+python scripts/data_preprocessing.py
 
 To train the models and compare their performance, run:
 bash
---> python scripts/model_training.py
+python scripts/model_training.py
